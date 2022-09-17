@@ -1,0 +1,21 @@
+
+.container{
+    margin:auto;
+    width:50%;
+}
+.heading{
+    font-size:large;
+    
+    background-color: black;
+}
+
+.description{
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-style: italic;
+}
+
+.check-button{
+    margin-top: 15px;
+}
